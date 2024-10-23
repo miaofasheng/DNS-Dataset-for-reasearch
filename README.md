@@ -1,4 +1,4 @@
-# Top domain names, Mainstream DNS Softwares and Public DNSServices
+# Top Domain Names, Mainstream DNS Softwares and Public DNS Services
 
 If you know more, feel free to update it. Let’s collaborate together!
 
