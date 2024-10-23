@@ -1,7 +1,6 @@
-# Top-domain-names-mainstream-DNS-Software-and-Public-DNS-Services
-Top Domain Names, mainstream DNS Softwares, and Public DNS Services
+# Top domain names, mainstream DNS Softwares and Public DNSServices
 
-
+If you know more, feel free to update it. Let’s collaborate together!
 
 # Top Domain Names
 
@@ -27,10 +26,12 @@ Top Domain Names, mainstream DNS Softwares, and Public DNS Services
 | [Simple DNS+](https://simpledns.plus/) | Windows | A commercial DNS server with a simple interface, tailored for small to medium-sized networks.      |
 | [PowerDNS](https://www.powerdns.com/) | Linux/Unix, Windows | A high-performance open-source authoritative DNS server, commonly used in large-scale environments.|
 
+
+# Public DNS Services
 | Service Name             | IPv4 Address    | IPv6 Address      |
 |--------------------------|-----------------|-------------------|
 | [OneDNS](https://www.onedns.net/) | 117.50.10.10   | -                 |
-| [360 Secure DNS](https://sdns.360.net/) | 101.226.4.6, 218.30.118.6, 123.125.81.6，140.207.198.6   | -                 |
+| [360 Secure DNS](https://sdns.360.net/) | 101.226.4.6, 218.30.118.6, 123.125.81.6, 140.207.198.6   | -                 |
 | [Ali DNS](https://www.alidns.com/) | 223.5.5.5, 223.6.6.6     | 2400:3200::1, 2400:3200:baba::1         |
 | [114DNS](http://www.114dns.com/) | 114.114.114.114, 114.114.114.119, 114.114.114.110 | -               |
 | [Quad101 DNS](https://101.101.101.101/) | 101.101.101.101, 101.102.103.104 | 2001:de4::101 |
