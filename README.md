@@ -30,18 +30,18 @@ Top Domain Names, mainstream DNS Softwares, and Public DNS Services
 | Service Name             | IPv4 Address    | IPv6 Address      |
 |--------------------------|-----------------|-------------------|
 | [OneDNS](https://www.onedns.net/) | 117.50.10.10   | -                 |
-| [360 Secure DNS](https://www.360.cn/) | 101.226.4.6   | -                 |
-| [Ali DNS](https://www.alidns.com/) | 223.5.5.5     | -                 |
-| [114DNS](http://www.114dns.com/) | 114.114.114.114 | -               |
-| [Quad101 DNS](https://101.101.101.101/) | 101.101.101.101 | -             |
+| [360 Secure DNS](https://sdns.360.net/) | 101.226.4.6, 218.30.118.6, 123.125.81.6，140.207.198.6   | -                 |
+| [Ali DNS](https://www.alidns.com/) | 223.5.5.5, 223.6.6.6     | 2400:3200::1, 2400:3200:baba::1         |
+| [114DNS](http://www.114dns.com/) | 114.114.114.114, 114.114.114.119, 114.114.114.110 | -               |
+| [Quad101 DNS](https://101.101.101.101/) | 101.101.101.101, 101.102.103.104 | 2001:de4::101 |
 | [DNS for Family](https://dnsforfamily.com/) | 78.47.64.161  | -               |
-| [Google Public DNS](https://dns.google/) | 8.8.8.8       | 2001:4860:4860::8888 |
-| [Neustar UltraDNS](https://www.home.neustar/dns-services/free-recursive-dns) | 156.154.70.1  | 2610:a1:1018::1 |
-| [Verisign Public DNS](https://www.verisign.com/en_US/security-services/public-dns/index.xhtml) | 64.6.64.6    | 2620:74:1b::1:1 |
-| [Quad9 DNS](https://www.quad9.net/) | 9.9.9.9       | 2620:fe::fe       |
+| [Google Public DNS](https://developers.google.com/speed/public-dns) | 8.8.8.8, 8.8.4.4       | 2001:4860:4860::8888, 2001:4860:4860::8844 |
+| [Neustar UltraDNS](https://vercara.com/ultra-dns-public) | 156.154.70.1  | 2610:a1:1018::1 |
+| [Verisign Public DNS](https://www.verisign.com/en_US/security-services/public-dns/index.xhtml) | 64.6.64.6, 64.6.65.6    | 2620:74:1b::1:1 |
+| [Quad9 DNS](https://www.quad9.net/) | 9.9.9.9, 149.112.112.112    | 2620:fe::fe, 2620:fe::9       |
 | [Norton DNS](https://dns.norton.com/) | 199.85.126.10  | -                 |
-| [Yandex.DNS](https://dns.yandex.com/) | 77.88.8.1     | 2a02:6b8::feed:0ff |
-| [CleanBrowsing DNS](https://cleanbrowsing.org/) | 185.228.168.10 | 2a0d:2a00:1::2 |
+| [Yandex.DNS](https://dns.yandex.com/) | 77.88.8.8, 77.88.8.1     | 2a02:6b8::feed:0ff, 2a02:6b8:0:1::feed:0ff  |
+| [CleanBrowsing DNS](https://cleanbrowsing.org/) | 185.228.168.10 | 2a0d:2a00:1::1 |
 | [DNS Forge](https://dnsforge.de/) | 176.9.1.117   | 2a01:4f8:151:34aa::198 |
 | [DNSify DNS](https://dnsify.com/) | 185.235.81.1  | -                 |
 | [FreeDNS](https://freedns.zone/) | 37.235.1.174  | 2a02:3d80:1:1::2 |
@@ -60,13 +60,13 @@ Top Domain Names, mainstream DNS Softwares, and Public DNS Services
 | [Comodo Secure DNS](https://www.comodo.com/secure-dns/) | 8.26.56.26 | -                 |
 | [CZ.NIC ODVR DNS](https://www.nic.cz/odvr/) | 193.17.47.1   | 2001:148f:ffff::1 |
 | [CIRA Shield DNS](https://www.cira.ca/cybersecurity-services/cira-canadian-shield) | 149.112.121.10 | 2620:10a:80bb::1 |
-| [OpenDNS](https://www.opendns.com/) | 208.67.220.220 | 2620:119:35::35  |
+| [OpenDNS](https://www.opendns.com/) | 208.67.220.220,208.67.222.222 | 2620:119:35::35  |
 | [Baidu DNS](https://dudns.baidu.com/) | 180.76.76.76  | -                 |
 | [CenturyLink DNS](https://www.centurylink.com/) | 205.171.3.25 | -                 |
 | [ControlD DNS](https://controld.com/) | 76.76.2.0     | 2606:1a40::1    |
 | [UncensoredDNS](https://blog.uncensoreddns.org/) | 89.233.43.71 | 2001:67c:28a4:: |
-| [CNNIC SDNS](https://www.cnnic.cn/) | 1.2.4.8       | -                 |
-| [Cloudflare DNS](https://1.1.1.1/) | 1.1.1.1       | 2606:4700:4700::1111 |
+| [CNNIC SDNS](]https://www.sdns.cn/) | 1.2.4.8, 210.2.4.8     | -                 |
+| [Cloudflare DNS](https://www.cloudflare.com/application-services/products/dns/) | 1.1.1.1, 1.0.0.1       | 2606:4700:4700::1111, 2606:4700:4700::1001 |
 | [Level3 DNS](https://www.level3.com/) | 4.2.2.1      | -                 |
 | [DNS.WATCH](https://dns.watch/) | 84.200.70.40   | 2001:1608:10:25::1c04:b12f |
 | [Coms.one DNS](https://www.coms.one/) | 93.115.24.204 | -                 |
