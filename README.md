@@ -66,7 +66,7 @@ If you know more, feel free to update it. Let’s collaborate together!
 | [CenturyLink DNS](https://www.centurylink.com/) | 205.171.3.25 | -                 |
 | [ControlD DNS](https://controld.com/) | 76.76.2.0     | 2606:1a40::1    |
 | [UncensoredDNS](https://blog.uncensoreddns.org/) | 89.233.43.71 | 2001:67c:28a4:: |
-| [CNNIC SDNS](]https://www.sdns.cn/) | 1.2.4.8, 210.2.4.8     | -                 |
+| [CNNIC SDNS](https://www.sdns.cn/) | 1.2.4.8, 210.2.4.8     | -                 |
 | [Cloudflare DNS](https://www.cloudflare.com/application-services/products/dns/) | 1.1.1.1, 1.0.0.1       | 2606:4700:4700::1111, 2606:4700:4700::1001 |
 | [Level3 DNS](https://www.level3.com/) | 4.2.2.1      | -                 |
 | [DNS.WATCH](https://dns.watch/) | 84.200.70.40   | 2001:1608:10:25::1c04:b12f |
