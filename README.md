@@ -76,5 +76,5 @@ If you know more, feel free to update it. Let’s collaborate together!
 
 # Fastest Public DNS Server
 [Fastest Public DNS Server](https://publicdnsserver.com/fastest/): Fastest and most popular public DNS server in the world. List ordered by query speed.
-
 [DNS Performance Analytics and Comparison](https://www.dnsperf.com/): All DNS providers are tested every minute from 200+ locations globally. All tests are over IPv4 with a 1-second timeout. The public data is updated once per hour, but contact us for real-time data.
+[Use of DNS Resolvers for World (XA)](https://stats.labs.apnic.net/rvrs): DNS Recursive Resolver Use Metrics
