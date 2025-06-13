@@ -1,4 +1,4 @@
-# Top Domain Names, Mainstream DNS Softwares and Public DNS Services
+# DNS Dataset for reasearch.
 
 If you know more, feel free to update it. Let’s collaborate together!
 
@@ -16,7 +16,7 @@ If you know more, feel free to update it. Let’s collaborate together!
 # Mainstream DNS Softwares
 
 | Software      | Supported OS       | Description                                                                                       |
-|---------------|--------------------|---------------------------------------------------------------------------------------------------|
+|-------------------|------------------------|---------------------------------------------------------------------------------------------------|
 | [Bind9](https://www.isc.org/bind/) | Linux/Unix, Windows       | A highly configurable and widely used open-source DNS software, ideal for enterprise environments. |
 | [Unbound](https://nlnetlabs.nl/projects/unbound/about/) | Linux/Unix, Windows | A high-performance validating, recursive, and caching DNS resolver focused on security.           |
 | [Microsoft DNS](https://docs.microsoft.com/en-us/windows-server/networking/dns/dns-top) | Windows | An integral part of Windows Server, providing comprehensive DNS solutions in Windows environments. |
