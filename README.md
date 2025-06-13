@@ -5,7 +5,7 @@ If you know more, feel free to update it. Let’s collaborate together!
 # Top Domain Name List
 
 | Top Domain List           | Description                                                                                                                                                                                                 |
-|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [TRANCO](https://tranco-list.eu/)         | TRANCO was introduced at NDSS 2019 in the paper “Tranco: A Research-Oriented Top Sites Ranking Hardened Against Manipulation.” It provides a research-focused list of top domains, combining data from various sources to create a more stable and reliable list for academic purposes, addressing the shortcomings of existing lists. |
 | [Alexa Top Websites](https://www.expireddomains.net/alexa-top-websites/) | Alexa  offers a comprehensive list of the most popular websites globally, last updated on February 1, 2023. It is widely used for analyzing internet traffic patterns. |
 | [Cisco Umbrella](https://umbrella-static.s3-us-west-1.amazonaws.com/index.html) | Cisco Umbrella provides a list of domains based on DNS queries, offering insights into the most frequently accessed domains and their usage patterns. |
@@ -16,7 +16,7 @@ If you know more, feel free to update it. Let’s collaborate together!
 # Mainstream DNS Softwares
 
 | Software      | Supported OS       | Description                                                                                       |
-|-------------------|------------------------|---------------------------------------------------------------------------------------------------|
+|-----------------------|------------------------|---------------------------------------------------------------------------------------------------|
 | [Bind9](https://www.isc.org/bind/) | Linux/Unix, Windows       | A highly configurable and widely used open-source DNS software, ideal for enterprise environments. |
 | [Unbound](https://nlnetlabs.nl/projects/unbound/about/) | Linux/Unix, Windows | A high-performance validating, recursive, and caching DNS resolver focused on security.           |
 | [Microsoft DNS](https://docs.microsoft.com/en-us/windows-server/networking/dns/dns-top) | Windows | An integral part of Windows Server, providing comprehensive DNS solutions in Windows environments. |
