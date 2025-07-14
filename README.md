@@ -80,3 +80,15 @@ If you know more, feel free to update it. Let’s collaborate together!
 [DNS Performance Analytics and Comparison](https://www.dnsperf.com/): All DNS providers are tested every minute from 200+ locations globally. All tests are over IPv4 with a 1-second timeout. The public data is updated once per hour, but contact us for real-time data.
 
 [Use of DNS Resolvers for World (XA)](https://stats.labs.apnic.net/rvrs): DNS Recursive Resolver Use Metrics.
+
+# TLD Zone File
+
+- **Centralized Zone Data Service (CZDS)**:  
+  A platform provided by ICANN for accessing Top-Level Domain (TLD) zone files. It supports zone file downloads for various generic TLDs (gTLDs), such as `.com`, `.net`, `.org`, `.xyz`, and more.  
+  Users must register at [https://czds.icann.org](https://czds.icann.org) and request access to the desired TLD zone files.
+
+- **Use Cases**:
+  - Extract all registered second-level domains under a given TLD in bulk;
+  - Perform domain name analysis, build passive DNS datasets, and conduct security research (e.g., identifying potentially malicious domains).
+
+
