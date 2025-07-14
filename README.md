@@ -74,14 +74,7 @@ If you know more, feel free to update it. Let’s collaborate together!
 | [Yandex.DNS](https://dns.yandex.com/) | 77.88.8.8, 77.88.8.1 | 2a02:6b8::feed:0ff, 2a02:6b8:0:1::feed:0ff |
 
 
-# Fastest Public DNS Server
-[Fastest Public DNS Server](https://publicdnsserver.com/fastest/): Fastest and most popular public DNS server in the world. List ordered by query speed.
-
-[DNS Performance Analytics and Comparison](https://www.dnsperf.com/): All DNS providers are tested every minute from 200+ locations globally. All tests are over IPv4 with a 1-second timeout. The public data is updated once per hour, but contact us for real-time data.
-
-[Use of DNS Resolvers for World (XA)](https://stats.labs.apnic.net/rvrs): DNS Recursive Resolver Use Metrics.
-
-# TLD Zone File
+# TLD Zone Files
 
 - **Centralized Zone Data Service (CZDS)**:  
   A platform provided by ICANN for accessing Top-Level Domain (TLD) zone files. It supports zone file downloads for various generic TLDs (gTLDs), such as `.com`, `.net`, `.org`, `.xyz`, and more.  
@@ -92,3 +85,10 @@ If you know more, feel free to update it. Let’s collaborate together!
   - Perform domain name analysis, build passive DNS datasets, and conduct security research (e.g., identifying potentially malicious domains).
 
 
+
+# Others
+[Fastest Public DNS Server](https://publicdnsserver.com/fastest/): Fastest and most popular public DNS server in the world. List ordered by query speed.
+
+[DNS Performance Analytics and Comparison](https://www.dnsperf.com/): All DNS providers are tested every minute from 200+ locations globally. All tests are over IPv4 with a 1-second timeout. The public data is updated once per hour, but contact us for real-time data.
+
+[Use of DNS Resolvers for World (XA)](https://stats.labs.apnic.net/rvrs): DNS Recursive Resolver Use Metrics.
